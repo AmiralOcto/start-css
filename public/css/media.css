@@ -25,7 +25,9 @@
         width: 90%;
     }
 
-    
+    #about {
+        height: 700px;
+    }
 
     footer > div > div {
         margin: 15px;
